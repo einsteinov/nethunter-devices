@@ -56,6 +56,8 @@ If you wish to add a kernel/new device, leave a link to source here and feel fre
 # git clone https://github.com/jcadduono/nethunter_kernel_hammerhead.git nexus5-cm
 # git clone https://github.com/chrisk44/android_kernel_lge_hammerhead.git -b cm-14.1-caf
 # git clone https://github.com/AutinDroid/ElementalX_N5mon.git -b ElementalX-7.09mon
+# LineageOS
+# git clone https://github.com/einsteinov/kernel-N5-einsteinov.git -b hammerheadmon-einsteinov
 
 # - Nexus 4
 # git clone https://github.com/binkybear/kernel_msm.git -b android-msm-mako-3.4-kitkat-mr2 mako
@@ -138,6 +140,10 @@ git clone https://github.com/zanezam/boeffla-kernel-cm-oneplus3.git -b t_boeffla
 # - Sony Xperia ZR
 # CM 13.0
 # git clone https://github.com/daedroza/nethunter_kernel_apq8064.git -b master
+
+# - Sony Xperia Z2 LTE Tablet
+# LineageOS
+# git clone https://github.com/einsteinov/einsteinov_kernel_sony_castor.git -b einsteinov-castormon
 
 # - Xiaomi Mi3/4
 # CM 13.0
